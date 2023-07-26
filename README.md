@@ -1,6 +1,6 @@
 # clash-service
 ### 目标：
-用于简化centos命令行使用clash。
+用于简化Centos命令行使用clash。
 ### clash版本：
 基于clash-v1.17.0[https://github.com/Dreamacro/clash/releases/tag/v1.17.0]
 ### 使用步骤：
@@ -8,6 +8,7 @@
 2. 执行```AddClashService.sh```
 3. 执行```Systemctl start clash```
 4. 最后打开新的命令行终端，执行```wget google.com```，如果你的订阅有效，就可以看到这样的画面：
-   ![Uploading image.png…]()
+   ![success](https://github.com/index0881/clash-service/assets/140592498/cee14e93-01c4-4d73-8600-75cb7972392f)
+
 ### 删除操作
 如果你想移除clash服务，执行```RemoveClashService.sh```。
