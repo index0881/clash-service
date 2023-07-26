@@ -12,3 +12,6 @@
 
 ### 删除操作
 如果你想移除clash服务，执行```RemoveClashService.sh```。
+
+### 参考
+- [https://www.jianshu.com/p/4499d1dd3570]
